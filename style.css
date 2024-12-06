@@ -1,0 +1,80 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.game-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    position: relative;
+}
+
+.game-title {
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+#gameCanvas {
+    background-color: #2e8b57;
+    border: 5px solid #808080;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.score-container {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #ffeb3b;
+}
+
+#gameOverMessage {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+#gameOverMessage h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+#gameOverMessage p {
+    font-size: 20px;
+}
+
+@media screen and (max-width: 600px) {
+    #gameCanvas {
+        width: 300px;
+        height: 300px;
+    }
+    .score-container {
+        font-size: 16px;
+    }
+    .game-title {
+        font-size: 28px;
+    }
+}
