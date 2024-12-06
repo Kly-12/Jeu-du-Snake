@@ -1,1 +1,8 @@
-# Jeu-du-Snake
+# Jeu du Snake
+
+## Description
+
+
+
+
+## Ce projet est sous license MIT - voir le fichier (LICENCE) pour plus de détails.
