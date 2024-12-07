@@ -29,6 +29,9 @@ Apparition de Jeu Terminé
 
 ## Installation 
 
+Il faut avoir trois fichiers et un navigateur web. Pour les fichiers, il faut un fichier HTML, par exemple index.html, un fichier CSS, par exemple style.css et un fichier JavaScript, par exemple script.js. Ensuite il faut sauvegardé tous les fichiers dans un même dossier. Il faut aller sur GitHub pour avoir le code, il y aura les codes
+
+
 ## Utilisation
 
 Premièrement il faut lancer le jeu. Ouvrez la page dans un navigateur compatible (Chrome, Firefox, Edge, etc). Le jeu commence immédiatement après le chargement de la page. Il faut diriger le serpent pour qu'il mange les pommes qui apparaissent à différents endroits. À chaque fois que le serpent mange une pomme il grandit et le score augmente d'un point.
@@ -39,10 +42,19 @@ Flèche gauche ou A: Le serpent va gauche.
 Flèche droite ou D: Le serpent va droite.
 Vous pouvez également jouer le jeu sur une tablette ou un téléphone, il faut faire un swipe vers la droite pour déplacer le serpent vers la droite. Un swipe vers la gauche pour déplacer le serpent vers la gauche. Un swipe vers le haut pour déplacer le serpent vers le haut. Un swipe vers le bas pour déplacer le serpent vers le bas. Le jeu continue jusqu'à ce que le serpent touche les bords ou se heurte à son propre corps. Quand vous perdez, un message de Jeu Terminé apparaît avec votre score final. Vous pouvez recommencez le jeu en cliquant sur Jeu Terminé.
 
-## Contributeurs
+
+Les règles 
+
+1. Mangez les pommes pour faire grandir le serpent et augmenter votre score.
+2. Évitez les murs, si le serpent touche un bord, le jeu est terminé.
+6. Si le serpent se touche lui-même, le jeu est terminé.
+7. Les pommes réapparaissent après chaque consommation à un nouvel endroit.
+8. Le score augmente à chaque fois que le serpent mange une pomme.
+   
+
+## Contributeur
 
 Dorsinvil Kensley 
-Azéma Sebastien Godson
 
 ## License
 
