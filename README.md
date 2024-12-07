@@ -35,12 +35,12 @@ Il faut avoir trois fichiers et un navigateur web. Pour les fichiers, il faut un
 
 ## Utilisation
 
-Premièrement il faut lancer le jeu. Ouvrez la page dans un navigateur compatible (Chrome, Firefox, Edge, etc). Le jeu commence immédiatement après le chargement de la page. Il faut diriger le serpent pour qu'il mange les pommes qui apparaissent à différents endroits. À chaque fois que le serpent mange une pomme il grandit et le score augmente d'un point.
+Premièrement il faut lancer le jeu. Ouvrez la page dans un navigateur compatible (Chrome, Firefox, Edge, etc). Le jeu commence immédiatement après le chargement de la page. Il faut diriger le serpent pour qu'il mange les pommes qui apparaissent à différents endroits. À chaque fois que le serpent mange une pomme, il grandit et le score augmente d'un point.
 Vous pouvez jouer le jeu sur un ordinateur, pour cela vous pouvez utilisez les touches fléchées (haut, bas, gauche, droite) ou les touches W, A, S, D pour changer la direction du serpent.
 Flèche haut ou W: Le serpent va monter.
 Flèche bas ou S: Le serpent va descendre.
-Flèche gauche ou A: Le serpent va gauche.
-Flèche droite ou D: Le serpent va droite.
+Flèche gauche ou A: Le serpent va à gauche.
+Flèche droite ou D: Le serpent va à droite.
 Vous pouvez également jouer le jeu sur une tablette ou un téléphone, il faut faire un swipe vers la droite pour déplacer le serpent vers la droite. Un swipe vers la gauche pour déplacer le serpent vers la gauche. Un swipe vers le haut pour déplacer le serpent vers le haut. Un swipe vers le bas pour déplacer le serpent vers le bas. Le jeu continue jusqu'à ce que le serpent touche les bords ou se heurte à son propre corps. Quand vous perdez, un message de Jeu Terminé apparaît avec votre score final. Vous pouvez recommencez le jeu en cliquant sur Jeu Terminé.
 
 
