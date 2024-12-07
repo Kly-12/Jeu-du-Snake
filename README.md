@@ -1,4 +1,6 @@
-# Jeu du Snake
+# Nom du projet
+
+Jeu du Snake
 
 ## Description
 
