@@ -31,7 +31,7 @@ Apparition de Jeu Terminé
 
 ## Installation 
 
-Il faut avoir trois fichiers et un navigateur web. Pour les fichiers, il faut un fichier HTML, par exemple index.html, un fichier CSS, par exemple style.css et un fichier JavaScript, par exemple script.js. Ensuite il faut sauvegardé tous les fichiers dans un même dossier. Il faut aller sur GitHub pour avoir les fichiers avec les codes. Puis il faur ouvrir le projet dans un navigateur web. 
+Il faut avoir trois fichiers et un navigateur web. Pour les fichiers, il faut un fichier HTML, par exemple index.html, un fichier CSS, par exemple style.css et un fichier JavaScript, par exemple script.js. Ensuite il faut sauvegardé tous les fichiers dans un même dossier. Il faut aller sur GitHub pour avoir les fichiers avec les codes. Puis il faut ouvrir le projet dans un navigateur web. 
 
 ## Utilisation
 
